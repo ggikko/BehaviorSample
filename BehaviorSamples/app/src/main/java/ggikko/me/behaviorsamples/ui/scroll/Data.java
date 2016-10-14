@@ -1,0 +1,67 @@
+package ggikko.me.behaviorsamples.ui.scroll;
+
+/**
+ * Created by ggikko on 2016. 10. 13..
+ */
+
+public class Data {
+
+    public static final String[] items = {
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍",
+            "ggikko", "parkjihong", "지코", "박지홍"
+    };
+}

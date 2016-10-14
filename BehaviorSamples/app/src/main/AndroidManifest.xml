@@ -15,8 +15,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ui.BasicFabActivity" />
-        <activity android:name=".ui.CustomFabActivity"></activity>
+        <activity android:name=".ui.fab.BasicFabActivity" />
+        <activity android:name=".ui.fab.CustomFabActivity" />
+        <activity android:name=".ui.scroll.CustomScrollActivity"></activity>
     </application>
 
 </manifest>

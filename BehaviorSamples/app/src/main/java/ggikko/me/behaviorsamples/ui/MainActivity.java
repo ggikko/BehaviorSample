@@ -8,10 +8,13 @@ import android.view.View;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
 import ggikko.me.behaviorsamples.R;
+import ggikko.me.behaviorsamples.ui.fab.BasicFabActivity;
+import ggikko.me.behaviorsamples.ui.fab.CustomFabActivity;
+import ggikko.me.behaviorsamples.ui.scroll.CustomScrollActivity;
 
 public class MainActivity extends AppCompatActivity {
 
-    @OnClick({R.id.goToBasicFabExample, R.id.goToCustomFabExample})
+    @OnClick({R.id.goToBasicFabExample, R.id.goToCustomFabExample, R.id.goToCustomScrollExample})
     void callOnClick(View view){
         switch (view.getId()){
             case R.id.goToBasicFabExample:
@@ -19,6 +22,9 @@ public class MainActivity extends AppCompatActivity {
                 break;
             case R.id.goToCustomFabExample:
                 goToAnoterActivity(CustomFabActivity.class);
+                break;
+            case R.id.goToCustomScrollExample:
+                goToAnoterActivity(CustomScrollActivity.class);
                 break;
         }
     }

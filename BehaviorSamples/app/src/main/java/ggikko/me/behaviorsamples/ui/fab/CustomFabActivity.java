@@ -1,4 +1,4 @@
-package ggikko.me.behaviorsamples.ui;
+package ggikko.me.behaviorsamples.ui.fab;
 
 import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
@@ -12,7 +12,7 @@ public class CustomFabActivity extends AppCompatActivity {
 
     @OnClick(R.id.fab)
     void clickFabButton(){
-        Snackbar.make(findViewById(R.id.container), "Hello! Ka Bank!", Snackbar.LENGTH_LONG).show();
+        Snackbar.make(findViewById(R.id.container), "Hello! Ka Bank!!", Snackbar.LENGTH_SHORT).show();
     }
 
     @Override
